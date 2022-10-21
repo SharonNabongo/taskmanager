@@ -1,0 +1,44 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    align-items: center;
+    position: absolute;
+    top: o;
+    width: 50%;
+    height: 100%;
+    padding: 25px;
+    transition: 1.25s;
+}
+    .form{
+width: 10px;
+height: 20px;
+margin: 0%;
+align-items: center;
+position: absolute;
+    }
+.header{
+    margin-top: 15px;
+    margin-bottom: 12px;
+}
+.input{
+    margin: 20px;
+    column-fill: blue;
+
+}
+.header{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+button{
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   padding: 20px;
+    align-items: center;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 18px;
+    background-color: blue;
+}
